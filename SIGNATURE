@@ -15,9 +15,9 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 ed5f6ecdaa8593bb86f052d9a992c1611c454265 MANIFEST
-SHA1 0c17587e0972c8c5e11a8415ae2ad5c446ef78f6 META.yml
-SHA1 bd95c72ba010f62daf9f2ecbd1b93eca7a5b4c50 Makefile.PL
-SHA1 6700f53d501ce686b8996d922b9b759033b302f8 README
+SHA1 4446b8f7a4ba40680f3865fb7b460da5cb949691 META.yml
+SHA1 0a68a05707e29ea3fd62bae2231e0414a2f53cef Makefile.PL
+SHA1 6ff2413003093247d2f41e2e9078a39f7f3d0f5d README
 SHA1 0b4122e0cadb3a15b166d26729af58639e2ca014 html/Callbacks/SelfServiceSimpleSearch/Elements/Tabs/SelfService
 SHA1 2dd357c88dcd913577d71441b60a8b886dc69646 html/SelfService/SimpleSearch.html
 SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
@@ -34,11 +34,11 @@ SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
 SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
 SHA1 4e09b598c2626e08cec2bed5e981492fa9e90967 inc/YAML/Tiny.pm
 SHA1 034d0f3a7401dae4be3eee279258181f51a4ad81 inc/unicore/Name.pm
-SHA1 c0f293f96ef64bcff43c44bb70de90c25f510378 lib/RT/Extension/SelfServiceSimpleSearch.pm
+SHA1 12c72b4d2c868d50f79dfd83cf822e407d71365a lib/RT/Extension/SelfServiceSimpleSearch.pm
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iEYEARECAAYFAlSQzK8ACgkQMflWJZZAbqASFQCgkFjcFH4DjhjavY9hVs1GK+YL
-0HEAnj+7puEoQs+cTzZB8GzHm315grQ5
-=tNXb
+iEYEARECAAYFAlSQzRsACgkQMflWJZZAbqDa3wCfYemboa+fwrSiIEQXMLBkmH0D
+bLsAn0egQTu+hFAveB7StFNEj8751l8S
+=Tk0I
 -----END PGP SIGNATURE-----

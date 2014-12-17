@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package RT::Extension::SelfServiceSimpleSearch;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 =head1 NAME
 
@@ -18,7 +18,7 @@ the stock SelfService pages do.
 
 =head1 RT VERSION
 
-Works with RT 4.2.
+Works with RT 4.0 and RT 4.2.
 
 =head1 INSTALLATION
 
